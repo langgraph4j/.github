@@ -1,6 +1,6 @@
 # Langgraph4j - AI Agent Workflow for Java
 
-> **Develop complex AI Agentic workflow architecture using Java**  
+> **Develop complex AI Agentic Architecture using Java**  
 
 ---
 
