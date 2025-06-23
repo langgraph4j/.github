@@ -58,7 +58,5 @@ mvn install
 [Spring AI]: https://spring.io/projects/spring-ai
 [Langchain4j]: https://github.com/langchain4j/langchain4j
 
-Make [LangGraph4j] compliant with [AG-UI protocol][AG-UI] with [CopilotKit] integration
-
 [AG-UI]: https://docs.ag-ui.com/introduction
 [CopilotKit]: https://www.copilotkit.ai
