@@ -19,6 +19,9 @@
 | [langgraph4j-examples](https://github.com/langgraph4j/langgraph4j-examples) | langgraph4j examples. |  ![GitHub Repo stars](https://img.shields.io/github/stars/langgraph4j/langgraph4j-examples?style=for-the-badge&label=)
 | [langgraph4j-copilotkit](https://github.com/langgraph4j/langgraph4j-copilotkit) | Make LangGraph4j compliant with [AG-UI] protocol plus [CopilotKit] integration. | ![GitHub Repo stars](https://img.shields.io/github/stars/langgraph4j/langgraph4j-copilotkit?style=for-the-badge&label=)
 
+## Star History
+
+[![Star History Chart](https://starchart.cc/langgraph4j/langgraph4j.svg)](https://starchart.cc/langgraph4j/langgraph4j)
 
 ## References
 
