@@ -15,9 +15,10 @@
  Repo | Description | ⭐
   --- | --- | ---
 | [langgraph4j](https://github.com/langgraph4j/langgraph4j) |  🚀 LangGraph for Java. A library for building stateful, multi-actor applications with LLMs, built for work jointly with Langchain4j and Spring AI.  | ![GitHub Repo stars](https://img.shields.io/github/stars/langgraph4j/langgraph4j?style=for-the-badge&label=)
-| [langgraph4j-builder](https://github.com/langgraph4j/langgraph4j-builder) |  Canvas for designing Agentic Workflow as LangGraph4j applications. | ![GitHub Repo stars](https://img.shields.io/github/stars/langgraph4j/langgraph4j-builder?style=for-the-badge&label=)
+| [langgraph4j-deepagents](https://github.com/langgraph4j/langgraph4j-deepagents) | langgraph4j deepagent reference implementation. |  ![GitHub Repo stars](https://img.shields.io/github/stars/langgraph4j/langgraph4j-deepagents?style=for-the-badge&label=)
 | [langgraph4j-examples](https://github.com/langgraph4j/langgraph4j-examples) | langgraph4j examples. |  ![GitHub Repo stars](https://img.shields.io/github/stars/langgraph4j/langgraph4j-examples?style=for-the-badge&label=)
 | [langgraph4j-copilotkit](https://github.com/langgraph4j/langgraph4j-copilotkit) | Make LangGraph4j compliant with [AG-UI] protocol plus [CopilotKit] integration. | ![GitHub Repo stars](https://img.shields.io/github/stars/langgraph4j/langgraph4j-copilotkit?style=for-the-badge&label=)
+| [langgraph4j-builder](https://github.com/langgraph4j/langgraph4j-builder) |  Canvas for designing Agentic Workflow as LangGraph4j applications. | ![GitHub Repo stars](https://img.shields.io/github/stars/langgraph4j/langgraph4j-builder?style=for-the-badge&label=)
 
 ## Star History
 
