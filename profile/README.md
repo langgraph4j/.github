@@ -26,7 +26,11 @@
 
 ## References
 
-## Articles
+### Books
+
+* [Applied AI for Enterprise Java Development(Red Hat Developer e-books)](https://developers.redhat.com/e-books/applied-ai-enterprise-java-development)
+
+### Articles
 
 * [LangGraph4j Deep Agents (Agent 2.0)](https://bsorrentino.github.io/bsorrentino/ai/2025/10/17/langgraph4j-deepagents.html)
 * [LangGraph4j Meets AG-UI - Building UI/UX in AI Agents era](https://bsorrentino.github.io/bsorrentino/ai/2025/08/21/LangGraph4j-meets-AG-UI.html)
@@ -38,7 +42,7 @@
 * [AI Agent in Java with LangGraph4j](https://bsorrentino.github.io/bsorrentino/ai/2024/05/20/langgraph-for-java.html)
 * [Building Stateful Multi AI Agents -LangGraph4J & Spring AI](https://medium.com/@ganeshmoorthy5999/building-stateful-multi-ai-agents-langgraph4j-spring-ai-c0046e293d00)
 
-## Projects
+### Projects
 
 * [A deep research assistant based on the Langgraph4j](https://github.com/imfangs/langgraph4j-deep-researcher)
 * [research4j - Build your own perplexity for your applications](https://github.com/bhavuklabs/research4j)
